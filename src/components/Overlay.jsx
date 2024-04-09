@@ -78,10 +78,10 @@ export const Overlay = () => {
         </Section>
         <Section opacity={opacityLastSection}>
           <h1 className="font-semibold font-serif text-2xl">
-            🤙 Call me maybe?
+            🤙 Call me for AnyQuery
           </h1>
           <p className="text-gray-500">
-            I'm very expensive but you won't regret it
+            call after 9:00 pm
           </p>
           <p className="mt-6 p-3 bg-slate-200 rounded-lg">
             📞 <a href="tel:(+42) 4242-4242-424242">(+91) 9024306866</a>
